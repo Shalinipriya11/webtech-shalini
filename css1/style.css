@@ -1,0 +1,23 @@
+
+p{
+    line-height: 40px;
+    font-size: large;
+}
+#p2{
+background-color: #d40c55c6;
+font-family: 'Anton', sans-serif;
+font-size: large;
+}
+#p3
+{
+    background-color: #15e4be;
+}
+#p4
+{
+    background-color: hsla(330, 86%, 50%, 0.678);
+}
+
+.paraclass
+{
+    text-align: center;
+}
