@@ -1,0 +1,41 @@
+img{
+    width:200px;
+    height:200px;
+   
+    margin:10px;
+}
+div{
+    border:5px;
+height:1000px;
+
+    background-color:aquamarine;
+    top:100px;
+}
+#sweet-1
+{
+    position: relative;
+    top:200px;
+}
+#sweet-2
+{
+    position: absolute;
+    top:200px;
+}
+#sweet-4
+{
+
+    position: fixed;
+
+}
+#sweet-3
+{
+    top:0px;
+    left:100px;
+    position: sticky;
+    
+}
+.box
+{
+    background-color: brown;
+    height:5000px;
+}
