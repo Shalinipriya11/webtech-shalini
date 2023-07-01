@@ -22,16 +22,28 @@ p
     margin:20px;
     padding: 20px;
 }
-.p3
-{
+.box{
 
-    border-color: brown;
-    border-style: solid;
-    border-top-left-radius: 5px;
-  margin:10px;
-padding-top:10px;
- border-width: 10px;
- width:500px;
- height:250px;
-    
-} 
+    border:2px solid red;
+    padding:50px;
+    margin:10px;
+    width:300px;
+    height:300px;
+    box-sizing: border-box;
+   
+}
+span{
+    border:2px solid green;
+    padding:5px;
+    margin:10px;
+    width:300px;
+    height:300px;
+    display: inline-block;
+}
+pre{
+    border:2px solid green;
+    padding:5px;
+    margin:10px;
+    width:300px;
+    height:300px; 
+}
