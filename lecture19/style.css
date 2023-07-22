@@ -1,0 +1,22 @@
+*
+{
+    
+    margin: 1px;
+}
+.box{
+    border:1px solid red;
+    background-color: antiquewhite;
+    overflow: auto;
+}
+#img1{
+    float:right;
+    height:20%;
+    width:20%;
+    border-radius: 10px;
+}
+#img2{
+    float: left;
+    height:20%;
+    width:20%;
+    border-radius: 10px;
+}

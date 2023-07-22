@@ -1,0 +1,29 @@
+.parent
+{
+    border:1px solid black;
+    background-color: aqua;
+    width:100%;
+    font-size:10px;
+}
+.child
+{
+    background-color: brown;
+width:50%;
+font-size:5em;
+}
+.box
+{
+    background-color: cadetblue;
+    height:50vh;
+    width:50vw;
+    font-size:5em;
+}
+.pos
+{
+
+    font-size:5rem;
+}
+.para
+{
+
+}

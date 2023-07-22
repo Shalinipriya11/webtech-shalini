@@ -1,0 +1,43 @@
+.container
+{
+    display: flex;
+    border: 2px solid black;
+    background-color: aliceblue;
+   flex-direction: row;
+   /* flex-wrap: wrap; */
+   height: 1200px;
+   justify-content: start;
+   /* align-items: start; */
+   
+   
+   }
+.box
+{
+    height:200px;
+    width:200px;
+    margin:2px;
+    padding:2px;
+}
+#box1
+{
+    background-color: aqua;
+    /* order:500; */
+    /*  */
+    align-self: center;
+}
+#box2
+{
+    background-color: brown;
+    /* order:400; */
+    flex-grow: 1;
+}
+#box3
+{
+    background-color: chartreuse;
+}
+#box4
+{
+    background-color: chocolate;
+    flex-basis: 400px;
+}
+
