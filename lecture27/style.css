@@ -19,7 +19,7 @@ align-items: center;
     background-color: rgb(116, 9, 151);
     display: flex;
     
-    width:50%;
+    width:40%;
     height:50%;
     position: relative;
     align-items: center;
@@ -70,8 +70,8 @@ font-size: large;
 }
 .rightbox
 {
-    width: 50%;
-    height: 100%;
+    width: 30%;
+    height: 90%;
     display: flex;
 justify-content: stretch;
 position: relative;
